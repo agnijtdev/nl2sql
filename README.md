@@ -1,4 +1,4 @@
-# 🧠 NL2SQL — Natural Language to SQL
+# NL2SQL — Natural Language to SQL
 
 ## Overview
 
