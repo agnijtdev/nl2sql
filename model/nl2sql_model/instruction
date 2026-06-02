@@ -1,0 +1,8 @@
+Delete this file !
+The trained model is not included in this repository due to GitHub file size limits.
+
+To reproduce:
+1. Open colab/train_nl2sql.ipynb
+2. Train on Spider dataset
+3. Download the generated model
+4. Place it in model/nl2sql_model/
