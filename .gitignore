@@ -1,0 +1,4 @@
+venv311/
+app/__pycache__/
+database/sample.db
+model/nl2sql_model/
